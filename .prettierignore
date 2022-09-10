@@ -1,0 +1,8 @@
+# Ignore these files and directories when code formatting with Prettier
+
+.github
+__tmp__
+dist
+.next
+node_modules
+out

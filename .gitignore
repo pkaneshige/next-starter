@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# vscode config
+.vscode/*
+!.vscode/launch.json
+
+# ignore local history
+**/.history
